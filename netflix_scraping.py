@@ -40,6 +40,6 @@ data_serie['seasons-data']= seasons
 
 load_specific_data(data_serie, series_specific_info)
 
-json_object= json.dumps(data_serie, indent=4)
+json_object= json.dumps(data_serie, indent=4, ensure_ascii=False)
 
 print (json_object)
