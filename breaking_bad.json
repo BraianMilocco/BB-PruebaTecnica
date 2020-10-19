@@ -1,0 +1,434 @@
+{
+    "title": "Breaking Bad",
+    "year": 2008,
+    "maturity-rating": "16+",
+    "genres": [
+        "Dramas de TV sobre crimen",
+        "Dramas de TV",
+        "Series de EE. UU."
+    ],
+    "synopsis": "Un profesor de Química de secundaria con cáncer terminal se asocia a un exestudiante para asegurar el futuro de su familia al fabricar y vender metanfetamina.",
+    "starring": [
+        "Bryan Cranston",
+        "Aaron Paul",
+        "Anna Gunn",
+        "Dean Norris",
+        "Betsy Brandt",
+        "R.J. Mitte",
+        "Bob Odenkirk",
+        "Steven Michael Quezada",
+        "Jonathan Banks",
+        "Giancarlo Esposito"
+    ],
+    "directed": "Bryan Cranston,Aaron Paul,Anna Gunn",
+    "seasons": 5,
+    "seasons-data": [
+        {
+            "number": 1,
+            "year": 2008,
+            "synopsis": "A medida que Walter construye su imperio, su esposa empieza a sospechar de su errática conducta, y la DEA inicia la búsqueda de un nuevo líder de la droga.",
+            "episodes": [
+                {
+                    "number": 1,
+                    "title": " Principio del fin",
+                    "duration": 58,
+                    "synopsis": "Un profesor de química de escuela secundaria recurre a la venta de drogas para mantener a su familia."
+                },
+                {
+                    "number": 2,
+                    "title": " El gato en la bolsa",
+                    "duration": 48,
+                    "synopsis": "Luego del fracaso de su primer negocio de drogas, Walt y Jesse deben deshacerse de dos cadáveres. Skyler sospecha que su marido no está involucrado en nada bueno."
+                },
+                {
+                    "number": 3,
+                    "title": " Y la bolsa en el río",
+                    "duration": 48,
+                    "synopsis": "Mientras Walt limpia el desorden que quedó tras su primer negocio de drogas, piensa en decirle a Skyler la verdad sobre su enfermedad."
+                },
+                {
+                    "number": 4,
+                    "title": " Cáncer",
+                    "duration": 48,
+                    "synopsis": "Al ser forzado a contar la verdad acerca de su enfermedad, Walt enfrenta el problema de cómo pagar una serie de caros tratamientos contra el cáncer."
+                },
+                {
+                    "number": 5,
+                    "title": " Materia gris",
+                    "duration": 48,
+                    "synopsis": "Skyler organiza una intervención para convencer a Walt de que acepte la generosa oferta de su excompañero de investigaciones de pagar el tratamiento contra el cáncer."
+                },
+                {
+                    "number": 6,
+                    "title": " Un loco puñado de nada",
+                    "duration": 48,
+                    "synopsis": "Los efectos secundarios y el costo del tratamiento crecen, y Walt exige que Jesse encuentre un revendedor para sus drogas; Jesse termina en problemas con un exconvicto."
+                },
+                {
+                    "number": 7,
+                    "title": " Acuerdo no violento",
+                    "duration": 48,
+                    "synopsis": "Tras el encuentro cercano de Jesse con la muerte, Walt acepta producir más drogas para Tuco, mientras Skyler sospecha que su hermana robó un costoso regalo para bebés."
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "year": 2009,
+            "synopsis": "Walter y Jesse, llegan alto en el juego de las drogas, llamando la atención del cartel rival y poniendo en peligro a Hank; cuñado de Walter y agente de la DEA.",
+            "episodes": [
+                {
+                    "number": 1,
+                    "title": " Siete con treinta y siete",
+                    "duration": 47,
+                    "synopsis": "Cuando preparan los planes para su gran negocio final de drogas, a Walt y Jesse les preocupa que a Tuco se le ocurra matarlos cuando quiera."
+                },
+                {
+                    "number": 2,
+                    "title": " A las brasas",
+                    "duration": 48,
+                    "synopsis": "Mientras la DEA pone en marcha la búsqueda de Tuco, Skyler recurre a Hank para que la ayude a encontrar a Walt."
+                },
+                {
+                    "number": 3,
+                    "title": " Picadura de una abeja muerta",
+                    "duration": 47,
+                    "synopsis": "Walt intenta volver a acercarse a Skyler, y Jesse se encuentra sin hogar después de que sus padres lo echan de su casa."
+                },
+                {
+                    "number": 4,
+                    "title": " Abajo",
+                    "duration": 48,
+                    "synopsis": "Walt lucha por intentar salvar su relación con Skyler, y Jesse se queda sin hogar cuando sus padres lo desalojan."
+                },
+                {
+                    "number": 5,
+                    "title": " Rotura",
+                    "duration": 48,
+                    "synopsis": "Hank trata de recobrar la compostura tras su encuentro con Tuco. Mientras, Jesse forma una pandilla para distribuir más producto por la ciudad."
+                },
+                {
+                    "number": 6,
+                    "title": " Cucú",
+                    "duration": 48,
+                    "synopsis": "Jesse busca a los adictos que robaron las drogas a Skinny Pete, y Walt lucha por sostener su coartada para explicar cómo ha pagado el tratamiento de cáncer."
+                },
+                {
+                    "number": 7,
+                    "title": " Negro y azul",
+                    "duration": 48,
+                    "synopsis": "La reputación de narco implacable de Jesse lleva a Walt a ampliar sus actividades; la incursión de Hank en el mundo de la oficina de la DEA en El Paso lo estremece."
+                },
+                {
+                    "number": 8,
+                    "title": " ¡Llama a Saul!",
+                    "duration": 48,
+                    "synopsis": "El arresto de Badger obliga a Walt y Jesse a contratar a un abogado de mala reputación."
+                },
+                {
+                    "number": 9,
+                    "title": " Cuatro días afuera",
+                    "duration": 48,
+                    "synopsis": "Preocupado porque no le queda mucha vida, Walt intenta cubrir las necesidades de su familia en una maratónica sesión de preparación de metanfetamina con Jesse."
+                },
+                {
+                    "number": 10,
+                    "title": " Terminado",
+                    "duration": 48,
+                    "synopsis": "Al recibir buenas noticias sobre el tratamiento de cáncer, Walt acude a su cuñado, Hank, antes de centrar su atención en hacer las cosas bien en su hogar."
+                },
+                {
+                    "number": 11,
+                    "title": " Mandala",
+                    "duration": 48,
+                    "synopsis": "Skyler tiene conflictos por sus sentimientos hacia su jefe. La muerte de un vendedor callejero fuerza a Walt a buscar otro lugar para vender la metanfetamina."
+                },
+                {
+                    "number": 12,
+                    "title": " Phoenix",
+                    "duration": 48,
+                    "synopsis": "Walt intenta encaminar su vida y la de Jesse mientras se prepara para la cirugía y pretende esconder la procedencia de su dinero a Skyler y Walt Jr."
+                },
+                {
+                    "number": 13,
+                    "title": " ABQ",
+                    "duration": 48,
+                    "synopsis": "Walt intenta encaminar su vida y la de Jesse mientras se prepara para la cirugía y pretende esconder la procedencia de su dinero a Skyler y Walt Jr."
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "year": 2010,
+            "synopsis": "Pensando en su familia, Walter sigue cocinando metanfetamina en secreto. Mientras, Jesse, ex alumno de Walter, se ha hecho adicto a la heroína.",
+            "episodes": [
+                {
+                    "number": 1,
+                    "title": " No más",
+                    "duration": 47,
+                    "synopsis": "Tras el desastre aéreo de Albuquerque, Skyler obliga a Walt a mudarse, mientras la estadía de Jesse en rehabilitación lo ayuda a aceptar su rol en el fatal choque aéreo."
+                },
+                {
+                    "number": 2,
+                    "title": " Caballo sin nombre",
+                    "duration": 48,
+                    "synopsis": "Skyler está decidida a divorciarse, y Walt acaba en la mira de dos asesinos de un cártel mexicano que buscan venganza."
+                },
+                {
+                    "number": 3,
+                    "title": " T",
+                    "duration": 47,
+                    "synopsis": "Jesse se cuestiona volver al negocio de las drogas ya que una organización de narcotraficantes espera con ansias vengar la muerte de uno de sus miembros."
+                },
+                {
+                    "number": 4,
+                    "title": " Luz verde",
+                    "duration": 48,
+                    "synopsis": "Mientras el romance de Skyler con su jefe crea caos en su matrimonio, un lote de metanfetamina que devuelve a Jesse al negocio involucra inadvertidamente a Walt."
+                },
+                {
+                    "number": 5,
+                    "title": " Más",
+                    "duration": 48,
+                    "synopsis": "Walt considera una oferta para regresar al narcotráfico; la obsesión de Hank por atrapar a \"Heisenberg\" trae problemas para Jesse."
+                },
+                {
+                    "number": 6,
+                    "title": " Atardecer",
+                    "duration": 48,
+                    "synopsis": "Walt vuelve al narcotráfico en el laboratorio de Gus, pero el descubrimiento de su vieja casa rodante lo fuerza a él y a Jesse a actuar para que Hank no los descubra."
+                },
+                {
+                    "number": 7,
+                    "title": " Un minuto",
+                    "duration": 48,
+                    "synopsis": "Hank, enojado, arriesga su carrera al atacar a Jesse; Walt, preocupado de que Jesse hable, le da un lugar en su laboratorio."
+                },
+                {
+                    "number": 8,
+                    "title": " Te veo",
+                    "duration": 47,
+                    "synopsis": "Mientras Hank se aferra a la vida, Walt descubre que los matones pueden estar tras él y busca alejarse de los problemas tomando a Jesse como compañero."
+                },
+                {
+                    "number": 9,
+                    "title": " Kafkiano",
+                    "duration": 48,
+                    "synopsis": "Al retomar la producción junto a Walt, Jesse piensa cómo aumentar las ganancias; la recuperación de Hank pone a Marie en una situación difícil con la compañía de seguros."
+                },
+                {
+                    "number": 10,
+                    "title": " Vuelo",
+                    "duration": 48,
+                    "synopsis": "Walt y Jesse se enfrentan a una larga noche en el laboratorio... y a una fastidiosa mosca."
+                },
+                {
+                    "number": 11,
+                    "title": " Abiquiú",
+                    "duration": 48,
+                    "synopsis": "Hank no está contento con su recuperación; Skyler cuestiona el negocio de lavado de dinero de Saul, y Jesse se enamora de una compañera de rehabilitación."
+                },
+                {
+                    "number": 12,
+                    "title": " Medias medidas",
+                    "duration": 47,
+                    "synopsis": "Jesse va tras los narcos que mataron a Combo, Hank se niega a dejar el hospital y Skyler presiona a Walt para que acepte el negocio de lavado de dinero."
+                },
+                {
+                    "number": 13,
+                    "title": " Medidas totales",
+                    "duration": 48,
+                    "synopsis": "Luego de liquidar a dos traficantes de su jefe, Walt se da cuenta de que Gus planea matarlo y reemplazarlo con su anterior asistente."
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "year": 2011,
+            "synopsis": "Bryan Cranston regresa en una nueva temporada como Walter White, quien sigue elaborando metanfetaminas e intentando superar al narcotraficante Gus Fring.",
+            "episodes": [
+                {
+                    "number": 1,
+                    "title": " Navaja",
+                    "duration": 48,
+                    "synopsis": "Después de luchar por sus vidas en una turbulenta situación, Walt y Jesse esperan con ansiedad la próxima jugada de Gus."
+                },
+                {
+                    "number": 2,
+                    "title": " Revólver calibre 38",
+                    "duration": 46,
+                    "synopsis": "Mientras Walt prepara su defensa contra Gus, Jesse hace frente a la presión renovando su amistad con Badger y Skinny Pete."
+                },
+                {
+                    "number": 3,
+                    "title": " Casa abierta",
+                    "duration": 46,
+                    "synopsis": "Mientras Walt se preocupa acerca de la intromisión de Gus y la salud mental de Jesse, cada vez más frágil, Skyler aumenta la presión para obtener lo que quiere."
+                },
+                {
+                    "number": 4,
+                    "title": " Puntos clave",
+                    "duration": 45,
+                    "synopsis": "Mientras Skyler arma una historia elaborada para explicar las finanzas de los White, Walt, preocupado, descubre que Hank ha comenzado una nueva investigación."
+                },
+                {
+                    "number": 5,
+                    "title": " Copiloto",
+                    "duration": 47,
+                    "synopsis": "Jesse acompaña como copiloto a Mike en una riesgosa serie de picadas, lo que hace que Walt se preocupe por la posible muerte de su socio."
+                },
+                {
+                    "number": 6,
+                    "title": " Arrinconados",
+                    "duration": 47,
+                    "synopsis": "Skyler adopta un enfoque reservado cuando sospecha que Walt no le está diciendo la verdad. Mientras tanto, Jesse prueba su valía ante Mike y Gus."
+                },
+                {
+                    "number": 7,
+                    "title": " Perro problemático",
+                    "duration": 47,
+                    "synopsis": "Obligado a devolver el auto que compró para su hijo, Walt responde poniendo en aprietos a Skyler con su nueva operación de lavado de dinero."
+                },
+                {
+                    "number": 8,
+                    "title": " Hermanos",
+                    "duration": 47,
+                    "synopsis": "Cuando Hank presenta evidencia de que Gus es el narcotraficante de metanfetamina de Albuquerque, a Walt le preocupa que los maten a él y a Jesse por proteger a su jefe."
+                },
+                {
+                    "number": 9,
+                    "title": " Micrófono",
+                    "duration": 47,
+                    "synopsis": "Mientras Walt intenta subvertir la investigación de Hank sobre la escena de Albuquerque, una advertencia mortal fuerza a Gus a considerar un trato con el cártel mexicano."
+                },
+                {
+                    "number": 10,
+                    "title": " Salud",
+                    "duration": 47,
+                    "synopsis": "Mientras Walt, maltratado, aún se recupera de la pelea, Gus se lleva a Jesse con él a México para cerrar un trato con el cártel."
+                },
+                {
+                    "number": 11,
+                    "title": " Entrepiso",
+                    "duration": 47,
+                    "synopsis": "Mientras Skyler presiona a Ted para que acepte su dinero y pueda pagar los impuestos, Gus sostiene que Jesse debería reanudar su trabajo en el laboratorio él solo."
+                },
+                {
+                    "number": 12,
+                    "title": " Fin de los tiempos",
+                    "duration": 46,
+                    "synopsis": "Mientras le ordena a su familia que aproveche la protección que la DEA le ofrece a Hank, Walt espera el destino que le toque."
+                },
+                {
+                    "number": 13,
+                    "title": " Cara a cara",
+                    "duration": 51,
+                    "synopsis": "Cuando su plan de matar a Gus fracasa, Walt y Jesse deben actuar rápido para cubrir sus rastros y evitar la muerte."
+                }
+            ]
+        },
+        {
+            "number": 5,
+            "year": 2012,
+            "synopsis": "En la temporada final, Walt ya no tiene que esforzarse por ser malo. Su vida sigue en una espiral descendente que le lleva a lo más alto de un imperio de la droga.",
+            "episodes": [
+                {
+                    "number": 1,
+                    "title": " Vive libre o muere",
+                    "duration": 43,
+                    "synopsis": "Walt visita a su familia, que aún está en custodia, mientras debe lidiar con las secuelas de la explosión en Casa Tranquila."
+                },
+                {
+                    "number": 2,
+                    "title": " Madrigal",
+                    "duration": 47,
+                    "synopsis": "Walt y Jesse deciden buscar un nuevo compañero para que los ayude en su último proyecto, y la DEA investiga varias pistas con la esperanza de encontrar algo certero."
+                },
+                {
+                    "number": 3,
+                    "title": " Peligro",
+                    "duration": 47,
+                    "synopsis": "Para consternación de Skyler, Walter vuelve a vivir a la casa. Walter, Mike y Jesse se reúnen con Saul para pedirle que les encuentre un nuevo lugar para cocinar."
+                },
+                {
+                    "number": 4,
+                    "title": " 51 (Cincuenta y uno)",
+                    "duration": 48,
+                    "synopsis": "Lydia se ve forzada a entregar a su propio empleado a la DEA, y Mike le ofrece un reemplazante: Jesse. Walt y Skyler discuten sobre si la familia corre peligro."
+                },
+                {
+                    "number": 5,
+                    "title": " Carga de muerte",
+                    "duration": 48,
+                    "synopsis": "Mike y Lydia trabajan para transportar la metilamina necesaria para la operación. Walt y Jesse intentan elaborar un plan que no arruine su tapadera."
+                },
+                {
+                    "number": 6,
+                    "title": " Adquisición",
+                    "duration": 48,
+                    "synopsis": "Walt, Mike y Jesse lidian con las repercusiones del robo de la metilamina. Mike y Jesse quieren salirse del negocio, pero Walt está decidido a construir su imperio."
+                },
+                {
+                    "number": 7,
+                    "title": " Di mi nombre",
+                    "duration": 48,
+                    "synopsis": "Walter intenta iniciar un trato con Declan, y Hank —quien tuvo que dejar ir a Mike— ahora tiene en la mira al abogado que ha estado pagando a los hombres de Mike."
+                },
+                {
+                    "number": 8,
+                    "title": " Planeando sobre todos",
+                    "duration": 48,
+                    "synopsis": "Walt se encuentra con Lydia para conseguir los nombres de la gente de Mike que está en la cárcel. Skyler hace otro intento por convencer a Walt de que deje de cocinar."
+                },
+                {
+                    "number": 9,
+                    "title": " Dinero sangriento",
+                    "duration": 48,
+                    "synopsis": "A medida que Walt y Jesse se adaptan a la vida fuera del negocio, Hank se aferra a una inquietante pista."
+                },
+                {
+                    "number": 10,
+                    "title": " Enterrado",
+                    "duration": 48,
+                    "synopsis": "Mientras el pasado atormenta a Skyler, Walt cubre sus huellas, y Jesse continúa luchando con la culpa."
+                },
+                {
+                    "number": 11,
+                    "title": " Confesiones",
+                    "duration": 48,
+                    "synopsis": "Jesse decide hacer un cambio, y Walt y Skyler intentan lidiar con una exigencia inesperada."
+                },
+                {
+                    "number": 12,
+                    "title": " Perro rabioso",
+                    "duration": 47,
+                    "synopsis": "Una extraña estrategia comienza a dar frutos, mientras se ponen en marcha planes que podrían darle un giro completo a la situación."
+                },
+                {
+                    "number": 13,
+                    "title": " Tohajiilee",
+                    "duration": 46,
+                    "synopsis": "La presión aumenta para Walt, de un modo que nunca habría esperado."
+                },
+                {
+                    "number": 14,
+                    "title": " Ozymandias",
+                    "duration": 47,
+                    "synopsis": "Todos deben enfrentar circunstancias radicalmente distintas. Todos, sin excepción."
+                },
+                {
+                    "number": 15,
+                    "title": " Pizarra de granito",
+                    "duration": 54,
+                    "synopsis": "Los sucesos que se iniciaron hace mucho tiempo marchan hacia una conclusión."
+                },
+                {
+                    "number": 16,
+                    "title": " Felina",
+                    "duration": 55,
+                    "synopsis": "El final de la serie."
+                }
+            ]
+        }
+    ]
+}
